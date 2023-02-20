@@ -1,13 +1,13 @@
 # Notes on Class 1
 
 ### [Get Started Notes](https://www.markdownguide.org/getting-started/):
-  #### This is an article about Markdown. It summarizes how Markdown is a quick and simple way to create text to look like HTML without using tags. It uses symbols to create common formats like bold, italics, bullets, and numbering. It is versatile and easy to make notes with any markdown editor. You can quickly format text without knowing the HTML code for the method.
+ This is an article about Markdown. It summarizes how Markdown is a quick and simple way to create text to look like HTML without using tags. It uses symbols to create common formats like bold, italics, bullets, and numbering. It is versatile and easy to make notes with any markdown editor. You can quickly format text without knowing the HTML code for the method.
 
 ### [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/):
-  #### This resource is a quick reference page with images of Markdown elements. Basic Syntax is a great resource that demonstrates simple Markdown codes. It lists common formats like bullets, bold, italics, quotes, numbering, images, and links. The Markdown symbols are displayed along with the HTML code. The resource also displays how the text would appear with the Markdown tools. It also gives a list of do's and don'ts in case changes are not appearing with the Markdown elements.
+ This resource is a quick reference page with images of Markdown elements. Basic Syntax is a great resource that demonstrates simple Markdown codes. It lists common formats like bullets, bold, italics, quotes, numbering, images, and links. The Markdown symbols are displayed along with the HTML code. The resource also displays how the text would appear with the Markdown tools. It also gives a list of do's and don'ts in case changes are not appearing with the Markdown elements.
 
 ### [Mastering Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax):
-  #### This resource is a great tool because it has quick links for the article on the right side of the webpage. Mastering Markdown is probably my preferred resouce link. It demonstrates how to use Markdown elements to change colors, and add images, emojis, and links. It also explains vocabulary like Relative Links. This is where you can link a file in your repository. The relative link is a link to the connected the current file.
+  This resource is a great tool because it has quick links for the article on the right side of the webpage. Mastering Markdown is probably my preferred resouce link. It demonstrates how to use Markdown elements to change colors, and add images, emojis, and links. It also explains vocabulary like Relative Links. This is where you can link a file in your repository. The relative link is a link to the connected the current file.
   
   
 1. What is Markdown? A markdown is an element that uses common symbols to create formatting changes. The elements can be used to create a simple website without using HTML code. 
