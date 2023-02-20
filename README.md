@@ -11,5 +11,5 @@ Link to my github portfolio: [Nicole's Github Page](https://github.com/stuenico)
 2. meaning two
        - 
 3. meaning three
-  - 
+       - 
 
