@@ -1,10 +1,11 @@
 # reading-notes
 My reading journal for Code Fellows
 
-Link to my github portfolio:
+Link to my github portfolio: http://github.com/stuenico 
 
 
-**Here are my links for Mark Down.** 
-*This is how I italicized text.*
-What does growth mindset mean to me?
+**What does growth mindset mean to me?**
+1. meaning one
+2. meaning two
+3. meaning three
 
