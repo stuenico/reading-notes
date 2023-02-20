@@ -13,8 +13,8 @@
 1. What is Markdown? A markdown is an element that uses common symbols to create formatting changes. The elements can be used to create a simple website without using HTML code. 
 2. Why do we use Markdown? It is a quick and easy way to format text for a web page without using HTML tags. Tags have to go in the front and end of most text on a page, therefore there can be a great deal of code that needs to be used to make a simple format change. It is necessary sometimes to use a 'shorthand' version to edit a webpage. 
 3. What symbol will create a heading in Markdown?  A # symbol can create a heading. One # is the largest heading. You can add addition #'s to make the text smaller. 
-     1. How many do you need to create the largest heading?  You only need one # to make the largest heading. You need six #'s for the smallest.
-     2. How many do you need to create the smallest heading? You need six #'s for the smallest. 
+     + How many do you need to create the largest heading?  You only need one # to make the largest heading. You need six #'s for the smallest.
+     + How many do you need to create the smallest heading? You need six #'s for the smallest. 
 5. When making text bold or italicized for emphasis, it is best practice to use which symbol?  In order to bold text you need to add two asterisks or underscores before and after a word or phrase.
 6. How do you create a link with Markdown?  To create a link in Markdown you would use a [text to display on the screen](link to website). There should not be a space in between items. 
 7. What are the three symbols you can use to create an unordered (bulleted) list with Markdown?  To create an unordered list (without numbers) you can use a -, + or an * before each list item. 
