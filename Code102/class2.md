@@ -1,14 +1,14 @@
-### Class Notes - The Coder's Computer
+# Class Notes - The Coder's Computer
 
-[The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+## [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
 
 * blog - explains the terminal and how it functions. 
 
-[Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+## [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
 
 * blog - explains absolute and relative paths
 
-[About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+## [About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
 * blog - explains how Linux is an extensionless system and gives a summary of simple command functions
 

@@ -1,5 +1,13 @@
 # Notes on Class 1
 
+### Growth Mindset
+
+>**What does growth mindset mean to me?**
+
+1. Vunerable to not knowing - I don't always have to know the answers. I struggle with this as a teacher. I always feel uncomfortable with not knowing the information they need.
+2. Keep trying - I have been trying to wrap my head around javascript for awhile now. I wish it came easy for me but it doesn't.
+3. Humble myself - I often have to ask a lot of questions, and some are simple and easy, but I need to do that to process information. 
+
 ### [Get Started Notes](https://www.markdownguide.org/getting-started/):
  This is an article about Markdown. It summarizes how Markdown is a quick and simple way to create text to look like HTML without using tags. It uses symbols to create common formats like bold, italics, bullets, and numbering. It is versatile and easy to make notes with any markdown editor. You can quickly format text without knowing the HTML code for the method.
 
@@ -18,5 +26,3 @@
 5. When making text bold or italicized for emphasis, it is best practice to use which symbol?  In order to bold text you need to add two asterisks or underscores before and after a word or phrase.
 6. How do you create a link with Markdown?  To create a link in Markdown you would use a [text to display on the screen](link to website). There should not be a space in between items. 
 7. What are the three symbols you can use to create an unordered (bulleted) list with Markdown?  To create an unordered list (without numbers) you can use a -, + or an * before each list item. 
-
-& dragonfly

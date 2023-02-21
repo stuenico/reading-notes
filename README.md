@@ -1,10 +1,10 @@
 # Nicole Stueve
 
-### Code 102 and 201- General Information
+## Code 102 and 201- General Information
 
-Link to my github portfolio: [Nicole's Github Page](https://github.com/stuenico)
+### Link to my github portfolio: [Nicole's Github Page](https://github.com/stuenico)
 
-## Table of Contents - Code 102
+#### Table of Contents - Code 102
 
   * [Class 1 Notes](Code102/class1.md)
 
@@ -22,7 +22,7 @@ Link to my github portfolio: [Nicole's Github Page](https://github.com/stuenico)
 
    * [Class 8 Notes](Code102/class8.md)
 
-## Table of Contents - Code 201
+#### Table of Contents - Code 201
 
    * [Class 1 Notes](Code201/class1.md)
 
