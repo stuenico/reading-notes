@@ -18,3 +18,5 @@
 5. When making text bold or italicized for emphasis, it is best practice to use which symbol?  In order to bold text you need to add two asterisks or underscores before and after a word or phrase.
 6. How do you create a link with Markdown?  To create a link in Markdown you would use a [text to display on the screen](link to website). There should not be a space in between items. 
 7. What are the three symbols you can use to create an unordered (bulleted) list with Markdown?  To create an unordered list (without numbers) you can use a -, + or an * before each list item. 
+
+& dragonfly
