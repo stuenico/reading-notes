@@ -1,12 +1,55 @@
-# reading-notes
+# Nicole Stueve
 
-## My reading journal for Code Fellows
+### Code 102 and 201- General Information
 
 Link to my github portfolio: [Nicole's Github Page](https://github.com/stuenico)
 
-*Growth Mindset*
->**What does growth mindset mean to me?**
-1. Vunerable to not knowing - I don't always have to know the answers. I struggle with this as a teacher. I always feel uncomfortable with not knowing the information they need.
-2. Keep trying - I have been trying to wrap my head around javascript for awhile now. I wish it came easy for me but it doesn't.
-3. Humble myself - I often have to ask a lot of questions, and some are simple and easy, but I need to do that to process information. 
+## Table of Contents - Code 102
 
+  * [Class 1 Notes](Code102/class1.md)
+
+  * [Class 2 Notes](Code102/class2.md)
+
+   * [Class 3 Notes](Code102/class3.md)
+
+   * [Class 4 Notes](Code102/class4.md)
+
+   * [Class 5 Notes](Code102/class5.md)
+
+   * [Class 6 Notes](Code102/class6.md)
+
+   * [Class 7 Notes](Code102/class7.md)
+
+   * [Class 8 Notes](Code102/class8.md)
+
+## Table of Contents - Code 201
+
+   * [Class 1 Notes](Code201/class1.md)
+
+   * [Class 2 Notes](Code201/class2.md)
+
+   * [Class 3 Notes](Code201/class3.md)
+
+   * [Class 4 Notes](Code201/class4.md)
+
+   * [Class 5 Notes](Code201/class5.md)
+
+   * [Class 6 Notes](Code201/class6.md)
+
+   * [Class 7 Notes](Code201/class7.md)
+
+   * [Class 8 Notes](Code201/class8.md)
+
+   * [Class 9 Notes](Code201/class9.md)
+
+   * [Class 10 Notes](Code201/class10.md)
+
+   * [Class 11 Notes](Code201/class11.md)
+
+   * [Class 12 Notes](Code201/class12.md)
+
+   * [Class 13 Notes](Code201/class13.md)
+
+   * [Class 14 Notes](Code201/class14.md)
+
+   * [Class 15 Notes](Code201/class15.md)
