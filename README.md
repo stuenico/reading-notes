@@ -1,6 +1,6 @@
 # Nicole Stueve
 
-## Code 102 and 201- General Information
+## General Information - Code 102 and 201
 
 ### Link to my github portfolio: [Nicole's Github Page](https://github.com/stuenico)
 
