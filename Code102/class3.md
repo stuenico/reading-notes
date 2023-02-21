@@ -1,6 +1,5 @@
 # Class 3 Notes
 
-
 1. What is Version Control?
     * Version Control gives the creator the ability to view previous versions of their code. It saves a snapshot in time of what the code was at that moment. 
 
