@@ -18,7 +18,7 @@
   * nice variety of themes
   * ability to choose from a healthy selection of extensions
 2. What do the following commands do?
-  * pwd - **print working directory (you are here)
+  * pwd - **print working directory (you are here)**
   * ls - **is a list command and gives a list of the directory you are at
   * cd - **change directory and you have to give it an arguement of where to go
   * mkdir - **make a new directory
