@@ -10,14 +10,14 @@
 ### [Myers Web Reset Stylesheet](https://meyerweb.com/eric/tools/css/reset/)
 
 1. What is the purpose of CSS?
-        * Add style to an HTML document
+    * Add style to an HTML document - it is what gives the web page color, formatting, spacing and many other visual changes. 
 
 2. What are the three ways to insert CSS into your project?
-        * In line with the HTML tag
-        * In a Style bracket at the top of an HTML document
-        * Using a CSS sheet and link it to the HTML 
+    * In line with the HTML tag
+    * In a Style bracket at the top of an HTML document
+    * Using a CSS sheet and link it to the HTML 
 
 3. Write an example of a CSS rule that would give all <p> elements red text.
-        * p {
+    * p {
   color: red;
 }
