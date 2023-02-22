@@ -14,24 +14,15 @@
 
 ### Also Available:
 
-[Variables](https://www.w3schools.com/js/js_variables.asp) 
+   [Variables](https://www.w3schools.com/js/js_variables.asp) - discusses what a variable is, how to declare it, and assign a value to the variable. 
 
-  - discusses what a variable is, how to declare it, and assign a value to the variable. 
+> [How Computers Work - Playlist](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
 
-[How Computers Work - Playlist](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
-
-1. What are variables in JavaScript?
-
-  - It is a way to store information. It assigns a name to the stored information. 
-
-2. What does it mean to declare a variable?
-
-  - To declare a variable means to name what the stored information will be referred to from now on. 
-
-3. What is an “assignment” operator, and what does it do?
-
-  - It assigns a value to the variable. 
-
-4. What is information received from the user called?
-
-  - The information received from the user is called the input. 
+> 1. What are variables in JavaScript?
+   - It is a way to store information. It assigns a name to the stored information. 
+> 2. What does it mean to declare a variable?
+   - To declare a variable means to name what the stored information will be referred to from now on. 
+> 3. What is an “assignment” operator, and what does it do?
+   - It assigns a value to the variable. 
+> 4. What is information received from the user called?
+   - The information received from the user is called the input. 
