@@ -9,7 +9,7 @@
 ## [Operators](https://www.w3schools.com/js/js_operators.asp)
    *     This is all about how to assign an operation to a function. 
 
- #### [Expressions and Operators](https://www.w3schools.com/js/js_operators.asp)
+#### [Expressions and Operators](https://www.w3schools.com/js/js_operators.asp)
    *       This site dicusses expressions and operators, which include assignment, comparison, arithmetic, bitwise, logical, and strings. 
 #### [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
    *       This site describes how to write a function and then call it in the program. 
