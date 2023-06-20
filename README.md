@@ -1,6 +1,6 @@
 # Nicole Stueve
 
-## General Information - Code 102 and 201
+## General Information
 
 ### Link to my github portfolio: [Nicole's Github Page](https://github.com/stuenico)
 
@@ -32,3 +32,7 @@
    * [Class 13 Notes](Code201/class13.md)
    * [Class 14 Notes](Code201/class14.md)
    * [Class 15 Notes](Code201/class15.md)
+
+#### Table of Contents - Code 301 Intermediate Software Development
+
+#### Table of Contents - Code 401 Advanced Software Development
