@@ -4,7 +4,7 @@
 
 ### Link to my github portfolio: [Nicole's Github Page](https://github.com/stuenico)
 
-#### Table of Contents - Code 102
+#### Table of Contents - Code 102 Intro to Software Development
 
    * [Class 1 Notes](Code102/class1.md)
    * [Class 2 Notes](Code102/class2.md)
@@ -15,7 +15,7 @@
    * [Class 7 Notes](Code102/class7.md)
    * [Class 8 Notes](Code102/class8.md)
 
-#### Table of Contents - Code 201
+#### Table of Contents - Code 201 Foundations to Software Development
 
    * [Class 1 Notes](Code201/class1.md)
    * [Class 2 Notes](Code201/class2.md)
